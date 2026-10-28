@@ -1274,6 +1274,7 @@ footer .brand span {
       <p><a href="#terms">Terms of Use</a> · <a href="#privacy">Privacy Policy</a></p>
     </div>
   </div>
+  <script id="_wau3r5">var _wau = _wau || []; _wau.push(["small", "xfldnguzrk", "3r5"]);</script><script async src="//waust.at/s.js"></script>
 </footer>
 
 <script>
